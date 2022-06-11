@@ -1,0 +1,9 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Dark+ Dark",
+  "include": "./Dark+ Dark-color-theme.json",
+  "colors": {
+    "statusBar.background": "#222222",
+    "statusBar.noFolderBackground": "#222222"
+  }
+}

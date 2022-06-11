@@ -1,0 +1,35 @@
+{
+  "name": "dark-plus-dark",
+  "displayName": "Dark+ Dark",
+  "description": "A dark Dark+ and even darker Dark+",
+  "publisher": "dav",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "author": {
+    "name": "David Cho",
+    "url": "https://github.com/dav-cho"
+  },
+  "repository": {
+    "url": "https://github.com/dav-cho/dark-plus-dark",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark+ Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark+ Dark-color-theme.json"
+      },
+      {
+        "label": "Dark+ Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark+ Darker-color-theme.json"
+      }
+    ]
+  }
+}
